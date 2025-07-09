@@ -1,0 +1,6 @@
+einops==0.6.1
+yapf==0.40.1
+ninja
+albumentations
+icecream
+calflops
