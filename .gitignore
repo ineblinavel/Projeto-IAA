@@ -1,0 +1,20 @@
+# Modelos e Pesos Grandes
+*.pt
+*.pth
+*.onnx
+
+# Ambientes Virtuais e Cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Execuções de Treinamento e Logs
+runs/
+tree_detection_runs/
+
+# Diretórios de Dataset e Compactados
+dataset_kfold/
+yolo_dataset_kfold/
+*.zip
+*.tar.gz
